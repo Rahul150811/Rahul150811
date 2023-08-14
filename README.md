@@ -1,93 +1,29 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Fnu Rahul</h1>
+<h3 align="center">A passionate Cybersecurity Analyst student with Cloud knowledge</h3>
 
-<!--
-**Rahul150811/rahul150811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul150811&label=Profile%20views&color=0e75b6&style=flat" alt="rahul150811" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul150811" alt="rahul150811" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1> Fnu Rahul </h1>
-<br /> 
+- 🔭 I’m currently working on [PROTECT: A Cybercrime Reporting Service](https://www.protectnow.info)
 
-                    
-`**Digital Craftsman (Developer / Programmer)**`
+- 🌱 I’m currently learning **AWS Security, Threat Hunting, Python Automation**
 
-                    
+- 👨‍💻 All of my projects are available at [https://www.hirahul.info/](https://www.hirahul.info/)
 
-<p align="left"></p>
-<p align="left"> 
-  <a href="https://github.com/150811?tab=repositories&sort=stargazers#gh-light-mode-only">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/150811?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
-  
-  <a href="https://github.com/150811?tab=repositories&sort=stargazers#gh-dark-mode-only">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/150811?color=655489&style=for-the-badge&labelColor=c691e9&logo=star#gh-dark-mode-only"/></a>
-  
-  <a href="https://github.com/150811?tab=followers#gh-light-mode-only">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/150811?color=2c4954&labelColor=2c3e50&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-light-mode-only"/></a>
-    
-  <a href="https://github.com/150811?tab=followers#gh-dark-mode-only">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/150811?color=dacc84&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
-</p>
+- 💬 Ask me about **Cybercrime, AWS Cloud, Cybersecurity, Meditation, Spirituality.**
 
----
-<br />
+- 📫 How to reach me **w3bc00ki3@gmail.com**
 
-                    
-
-<h2>Languages and Tools</h2> 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=&perline=9"  />
-</p>
-<br />
-
-                    
-
-<p><a href="https://github.com/150811#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=150811&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="150811" /></a>
-  <a href="https://github.com/150811#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=150811&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="150811" /></a>
 </p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<a href="https://github.com/150811#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=150811&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="150811" /></a>
-<a href="https://github.com/150811#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=150811&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="150811" /></a>
-</p> 
-<br>
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul150811&show_icons=true&locale=en&layout=compact" alt="rahul150811" /></p>
 
-<p><a href="https://github.com/150811#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=150811&theme=nightowl#gh-dark-mode-only" alt="150811"/></a>
-<a href="https://github.com/150811#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=150811&theme=vue#gh-light-mode-only" alt="150811"/></a></p>
-<br/>
-<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul150811&show_icons=true&locale=en" alt="rahul150811" /></p>
 
-<p><a href="https://github.com/150811#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=150811&theme=nightowl#gh-dark-mode-only" alt="150811" /></a>
-<a href="https://github.com/150811#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=150811&theme=vue#gh-light-mode-only" alt="150811" /></a></p>
-<br/>
-
----
-
-
-                    
-
-<h2>My Latest Project</h2> 
-<br />
-<p><a href="https://github.com/150811/#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=150811&repo=&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/150811/#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=150811&repo=&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
-<br />
-
-
-                    
-
-<h2>Connect With Me</h2> 
-<p align="left">
-<a href="https://twitter.com/" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" /></a>
-<a href="https://instagram.com/" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" /></a>
-<a href="https://www.linkedin.com/in/fnu-rahul-a48427199/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul150811&" alt="rahul150811" /></p>
